@@ -1,5 +1,5 @@
 	/*
-	RC34_SQF a translation of OO_CIPHER
+	RC34_SQF a translation of OO_CIPHER & RC34
 	Copyright (c) 2018 Nicolas BOITEUX
 
 	MIT License
